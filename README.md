@@ -4,6 +4,6 @@ Satisfactory Mod Manager CN中文版。
 
 ### 代码来自
 
-  代码来自[版本](https://github.com/satisfactorymodding/SatisfactoryModManager).
+  [Satisfactory Mod Manager](https://github.com/satisfactorymodding/SatisfactoryModManager).
 
 
